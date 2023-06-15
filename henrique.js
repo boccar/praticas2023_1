@@ -1,3 +1,3 @@
 var meuNome = "Henrique"
 
-console.log(meuNome);s
+console.log(meuNome);
